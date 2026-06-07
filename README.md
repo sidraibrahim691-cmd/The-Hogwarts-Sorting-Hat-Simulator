@@ -2,8 +2,8 @@
 <body>
 <h1>The Hogwarts Sorting Hat: An Interactive Personality Quiz</h1>
 
-    <h2>1. Title</h2>
-    <p><strong>The Hogwarts Sorting Hat: An Interactive Personality Quiz</strong></p>
+<h2>1. Title</h2>
+<p><strong>The Hogwarts Sorting Hat: An Interactive Personality Quiz</strong></p>
 
     <h2>2. Introduction / Problem Statement</h2>
     <ul>
