@@ -1,12 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>The Hogwarts Sorting Hat: An Interactive Personality Quiz</title>
-</head>
-<body>
 
-    <h1>The Hogwarts Sorting Hat: An Interactive Personality Quiz</h1>
+<body>
+<h1>The Hogwarts Sorting Hat: An Interactive Personality Quiz</h1>
 
     <h2>1. Title</h2>
     <p><strong>The Hogwarts Sorting Hat: An Interactive Personality Quiz</strong></p>
