@@ -1,7 +1,7 @@
 package com.hogwarts.houses;
 
 public class Hufflepuff extends Houses{
-    Hufflepuff(){
+    public Hufflepuff(){
         super("HUFFLEPUFF","Yellow and Black",
                 "Where kindness is a superpower and loyalty never breaks.");
     }

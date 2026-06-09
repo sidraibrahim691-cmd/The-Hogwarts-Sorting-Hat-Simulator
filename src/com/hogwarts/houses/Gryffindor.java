@@ -1,7 +1,7 @@
 package com.hogwarts.houses;
 
-public class Gryffindor extends Houses{
-    Gryffindor() {
+public class Gryffindor extends Houses {
+    public Gryffindor() {
         super("GRYFFINDOR","Scarlet and Gold",
                 "Where the brave dare to tread and the bold dare to lead!");
     }

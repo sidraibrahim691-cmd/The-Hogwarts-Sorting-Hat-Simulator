@@ -1,7 +1,7 @@
 package com.hogwarts.houses;
 
 public class Slytherin extends Houses{
-    Slytherin(){
+    public Slytherin(){
         super( "SLYTHERIN","Green and Silver",
                 "Where ambition meets cunning and greatness is the only option.");
     }

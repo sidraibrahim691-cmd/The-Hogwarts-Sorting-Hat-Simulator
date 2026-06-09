@@ -5,11 +5,12 @@ public class Houses {
     protected String houseColors;
     protected String description;
 
-    Houses(String houseName, String houseColors, String description){
+    protected Houses(String houseName, String houseColors, String description){
         this.houseName = houseName;
         this.houseColors = houseColors;
         this.description = description;
     }
+
     public void displayTraits(){
         System.out.println("The Sorting Hat has spoken...");
         System.out.println("You belong in "+ houseName);

@@ -1,6 +1,7 @@
 package com.hogwarts.data;
 
-public class HouseCalculator extends ScoringSystem{
+public class HouseCalculator extends ScoringSystem {
+
     @Override
     public String determine_house(int gryffindorScore,
                                   int hufflepuffScore,
@@ -28,4 +29,3 @@ public class HouseCalculator extends ScoringSystem{
         return winner;
     }
 }
-

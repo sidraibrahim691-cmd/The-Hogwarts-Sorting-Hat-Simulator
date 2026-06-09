@@ -17,11 +17,11 @@ public class User {
         this.user_house = user_house;
     }
 
-    public String getUser_name(String user_name){
-        return user_name;
+    public String getUser_name(){
+        return this.user_name;
     }
 
-    public String getUser_house(String user_house){
-        return user_house;
+    public String getUser_house(){
+        return this.user_house;
     }
 }

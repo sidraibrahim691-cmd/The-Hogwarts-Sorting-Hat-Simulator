@@ -1,7 +1,7 @@
 package com.hogwarts.houses;
 
 public class Ravenclaw extends Houses{
-    Ravenclaw(){
+    public Ravenclaw(){
         super("RAVENCLAW","Blue and Bronze",
                 "Where wit is worshipped and wisdom lights the way.");
     }
